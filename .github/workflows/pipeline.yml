@@ -44,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: dev
-      url: "sas.com"
+      url: 'sas.com'
     needs: test
     steps: 
       - name: Run a one-line script
