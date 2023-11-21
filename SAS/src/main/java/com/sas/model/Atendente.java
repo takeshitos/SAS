@@ -3,6 +3,7 @@ package com.sas.model;
 public class Atendente extends Funcionario {
 
     private String adm_id;
+    private String teste; //Teste para a pipeline
 
     public String getAdm_id() {
         return adm_id;
