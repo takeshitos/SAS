@@ -1,6 +1,6 @@
 <div align="center">
    
-   <img width="150" src="https://img.shields.io/github/actions/workflow/status/phTononFerreira/SAS/maven.yml">
+   <img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/takeshitos/SAS/pipeline.yml">
 
    <h1>
       <a href="">
